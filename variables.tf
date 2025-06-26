@@ -1,0 +1,11 @@
+variable "region" {}
+variable "project_name" {}
+variable "vpc_cidr_block" {}
+variable "public_subnet_cidr_block_1" {}
+variable "public_subnet_cidr_block_2" {}
+variable "private_subnet_cidr_block_1" {}
+variable "private_subnet_cidr_block_2" {}
+variable "private_subnet_cidr_block_3" {}
+variable "private_subnet_cidr_block_4" {}
+variable "ec2_ami" {}
+variable "ec2_instance_type" {}
